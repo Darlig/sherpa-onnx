@@ -1,0 +1,9 @@
+{
+    "sileroVadModelPath": "/home/weiy/project/asr/k2-fsa/sherpa-onnx/deliver_sherpaonnx2pass/mvn_project/models/silero_vad.onnx",
+    "onlineEncoderPath": "/home/weiy/project/asr/k2-fsa/sherpa-onnx/deliver_sherpaonnx2pass/mvn_project/models/sherpa-onnx-streaming-paraformer-bilingual-zh-en/encoder.int8.onnx",
+    "onlineDecoderPath": "/home/weiy/project/asr/k2-fsa/sherpa-onnx/deliver_sherpaonnx2pass/mvn_project/models/sherpa-onnx-streaming-paraformer-bilingual-zh-en/decoder.int8.onnx",
+    "onlineTokensPath": "/home/weiy/project/asr/k2-fsa/sherpa-onnx/deliver_sherpaonnx2pass/mvn_project/models/sherpa-onnx-streaming-paraformer-bilingual-zh-en/tokens.txt",
+    "offlineModelPath": "/home/weiy/project/asr/k2-fsa/sherpa-onnx/deliver_sherpaonnx2pass/mvn_project/models/sherpa-onnx-paraformer-zh-2023-09-14/model.int8.onnx",
+    "offlineTokensPath": "/home/weiy/project/asr/k2-fsa/sherpa-onnx/deliver_sherpaonnx2pass/mvn_project/models/sherpa-onnx-paraformer-zh-2023-09-14/tokens.txt",
+    "ruleFstsPath": "/home/weiy/project/asr/k2-fsa/sherpa-onnx/deliver_sherpaonnx2pass/mvn_project/models/itn_zh_number.fst"
+}
